@@ -1,0 +1,6 @@
+{
+  "name": "SolarTrack EE - ESP32 & PCB Engineering FYP Hub",
+  "description": "Comprehensive ESP32, Embedded Systems, Electronics, PCB Design, and IoT engineering learning platform and Final Year Project (FYP) development assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
